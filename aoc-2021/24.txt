@@ -1,0 +1,43 @@
+program: 0 valid input 5 z:0 produces z: 21
+program: 1 valid input 9 z:21 produces z: 558
+program: 2 valid input 9 z:558 produces z: 14519
+program: 3 valid input 9 z:14519 produces z: 377510
+program: 4 valid input 6 z:377510 produces z: 14519
+program: 5 valid input 9 z:14519 produces z: 377509
+program: 6 valid input 1 z:377509 produces z: 14519
+program: 7 valid input 2 z:14519 produces z: 377507
+program: 8 valid input 9 z:377507 produces z: 14519
+program: 9 valid input 8 z:14519 produces z: 558N
+program: 10 valid input 1 z:558 produces z: 14520
+program: 11 valid input 9 z:14520 produces z: 558
+program: 12 valid input 3 z:558 produces z: 21
+program: 13 valid input 9 z:21 produces z: 0
+
+
+
+
+
+
+
+
+
+program: 0 valid input 1 z:0 produces z: 17
+program: 1 valid input 7 z:21 produces z: 556
+program: 2 valid input 2 z:556 produces z: 14460
+program: 3 valid input 4 z:14460 produces z: 375971
+program: 4 valid input 1 z:375971 produces z: 14460
+program: 5 valid input 9 z:14460 produces z: 375975
+program: 6 valid input 1 z:375975 produces z: 14460
+program: 7 valid input 1 z:14460 produces z: 375972
+program: 8 valid input 8 z:375972 produces z: 14460
+program: 9 valid input 1 z:14460 produces z: 556
+program: 10 valid input 1 z:556 produces z: 14468
+program: 11 valid input 9 z:14468 produces z: 556
+program: 12 valid input 1 z:556 produces z: 21
+program: 13 valid input 9 z:21 produces z: 0
+
+
+program: 13 valid input 5 z:17 produces z: 0
+program: 12 valid input 1 z:452 produces z: 17
+program: 11 valid input 1 z:11756 produces z: 452
+

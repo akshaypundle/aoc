@@ -1,0 +1,3 @@
+cp /home/akshay/coding/repos/projecteuler/solutions/library.h /home/akshay/coding/repos/aoc/aoc-2021 &&
+g++ -c   -I/home/akshay/coding/repos/projecteuler/solutions/ /home/akshay/coding/repos/projecteuler/solutions/library.cc -o /home/akshay/coding/repos/projecteuler/solutions/library.o
+g++ -O3 -ggdb -I. -L. $1.cc ../../projecteuler/solutions/library.cc && ./a.out
