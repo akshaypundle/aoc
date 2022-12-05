@@ -1,0 +1,43 @@
+#include <algorithm>
+#include <cmath>
+#include <iostream>
+#include <map>
+#include <set>
+#include <sstream>
+#include <stack>
+#include <string>
+#include <utility>
+#include <vector>
+#include <climits>
+#include "projecteuler/solutions/library.h"
+
+using namespace std;
+using namespace library;
+
+class Problem {
+
+  public:  
+
+    vector<string> lines;
+    void readInput() {
+      string line;
+
+      while(!cin.eof()) {
+        getline(cin, line);
+        lines.push_back(line);
+      }
+    }
+
+    long solve() {
+      for(string line:lines) {
+      }
+      return 0;
+    }
+
+};
+
+int main() {
+  Problem p;
+  p.readInput();
+  cout << p.solve() << "\n";
+}
