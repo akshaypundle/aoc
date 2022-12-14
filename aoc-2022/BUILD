@@ -15,3 +15,11 @@ cc_binary(
     "//projecteuler/solutions:library",
   ],
 )
+
+cc_binary(
+  name = "p3",
+  srcs = ["p3.cc"],
+  deps = [
+    "//projecteuler/solutions:library",
+  ],
+)
